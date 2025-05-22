@@ -1,2 +1,2 @@
-# HCSA-EX200-Practice-Exam-Questions
+# RHCSA-EX200-Practice-Exam-Questions
 Hands-On Labs
